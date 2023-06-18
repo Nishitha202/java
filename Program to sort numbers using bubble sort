@@ -28,7 +28,7 @@ for(i=0;i<(num-1);i++) {
 }
 System.out.println("The sorted list of integers are:");
 for(i=0;i<num;i++) {
-	System.out.println(a[i]);
+	System.out.println(a[i]);// prints the  sorted array 
 }
 	
 	}
